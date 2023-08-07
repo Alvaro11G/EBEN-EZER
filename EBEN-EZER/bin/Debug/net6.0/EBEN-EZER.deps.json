@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EBEN-EZER/1.0.0": {
+        "runtime": {
+          "EBEN-EZER.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EBEN-EZER/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
