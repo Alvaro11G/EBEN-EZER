@@ -9,10 +9,18 @@ html {
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 50px;
+}
+
+.index {
+    /*background-image: url("Cross.jpg");*/
+    background-color: #4b6f76; /* Used if the image is unavailable */
+    height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
 }

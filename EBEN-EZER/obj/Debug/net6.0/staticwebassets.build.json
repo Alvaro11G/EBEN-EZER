@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jAwUTu8h9Fc0KMK7mw+LKvU1aey+5X4OlMk3OGIjDd4=",
+  "Hash": "EMDNYEcxNAgR32TeaJkm5/QPz2V+wOItfio+PBHCDBg=",
   "Source": "EBEN-EZER",
   "BasePath": "_content/EBEN-EZER",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\agarc\\repos\\EBEN-EZER\\EBEN-EZER\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EBEN-EZER.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\agarc\\repos\\EBEN-EZER\\EBEN-EZER\\wwwroot\\Cross.jpg",
+      "SourceId": "EBEN-EZER",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\agarc\\repos\\EBEN-EZER\\EBEN-EZER\\wwwroot\\",
+      "BasePath": "_content/EBEN-EZER",
+      "RelativePath": "Cross.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Cross.jpg"
     },
     {
       "Identity": "C:\\Users\\agarc\\repos\\EBEN-EZER\\EBEN-EZER\\wwwroot\\css\\site.css",
