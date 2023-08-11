@@ -29,3 +29,9 @@ body {
 .index_container{
     padding: 100px;
 }
+
+.event {
+    Background-color: #4b6f76;
+    height: 500px;
+    padding: 150px;
+}
