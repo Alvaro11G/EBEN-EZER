@@ -6,7 +6,6 @@ C:\Users\agarc\repos\EBEN-EZER\EBEN-EZER\bin\Debug\net6.0\EBEN-EZER.deps.json
 C:\Users\agarc\repos\EBEN-EZER\EBEN-EZER\bin\Debug\net6.0\EBEN-EZER.runtimeconfig.json
 C:\Users\agarc\repos\EBEN-EZER\EBEN-EZER\bin\Debug\net6.0\EBEN-EZER.dll
 C:\Users\agarc\repos\EBEN-EZER\EBEN-EZER\bin\Debug\net6.0\EBEN-EZER.pdb
-C:\Users\agarc\repos\EBEN-EZER\EBEN-EZER\obj\Debug\net6.0\EBEN-EZER.csproj.AssemblyReference.cache
 C:\Users\agarc\repos\EBEN-EZER\EBEN-EZER\obj\Debug\net6.0\EBEN-EZER.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\agarc\repos\EBEN-EZER\EBEN-EZER\obj\Debug\net6.0\EBEN-EZER.AssemblyInfoInputs.cache
 C:\Users\agarc\repos\EBEN-EZER\EBEN-EZER\obj\Debug\net6.0\EBEN-EZER.AssemblyInfo.cs
