@@ -18,11 +18,8 @@ body {
 }
 
 .index {
-    background-image: url("Cross.jpg");
-    background-color: #4b6f76; /* Used if the image is unavailable */
-    height: 700px; /* You must set a specified height */
-    background-position: center; /* Center the image */
-    background-size: cover; /* Resize the background image to cover the entire container */
+    background-color: #4b6f76;
+    height: 500px; /* set a specified height */
     color: white;
 }
 
@@ -31,6 +28,12 @@ body {
 }
 
 .event {
+    Background-color: #4b6f76;
+    height: 500px;
+    padding: 150px;
+}
+
+.About_Us {
     Background-color: #4b6f76;
     height: 500px;
     padding: 150px;
