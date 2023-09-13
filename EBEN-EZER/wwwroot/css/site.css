@@ -35,7 +35,12 @@ body {
 
 .About_Us {
     Background-color: #4b6f76;
-    height: 500px;
+    height: 550px;
     padding-left: 30px;
     padding-top: 50px;
+}
+
+.About_Us_Contact_Address {
+    display: inline;
+    padding: 20px;
 }
