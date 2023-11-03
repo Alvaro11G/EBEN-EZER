@@ -7,12 +7,4 @@
     <RootNamespace>EBEN_EZER</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <UpToDateCheckInput Remove="Pages\Gospel.cshtml" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <_ContentIncludedByDefault Remove="Pages\Gospel.cshtml" />
-  </ItemGroup>
-
 </Project>
